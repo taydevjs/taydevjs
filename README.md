@@ -4,7 +4,8 @@
  
  
   -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor-white" alt="html-logo" />
-  -  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logoColor=white" alt="css-logo" /> 
+  -  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logoColor=white" alt="css-logo" />
+  -  <img src="https://img.shields.io/badge/JAVASCRIPT-1572b6?style=for-the-badge&logoColor=white" alt="javascript-logo" /> 
  
  
  
