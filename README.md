@@ -1,19 +1,50 @@
- Hi there 👋
- 
- Eu sou a Tayná Brandão, sou programadora Front End, atualmente estou aprendendo e criando projetos como: 
- 
- 
-  -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor-white" alt="html-logo" />
-  -  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logoColor=white" alt="css-logo" />
-  -  <img src="https://img.shields.io/badge/JAVASCRIPT-1572b6?style=for-the-badge&logoColor=white" alt="javascript-logo" /> 
- 
- 
- 
- Conecte-se comigo
- 
- <a href="https://www.linkedin.com/in/tayna-brand%C3%A3o-255a33301/">
- <img align="left alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- 
- [![Tayna stats](https://github-readme-stats.vercel.app/api?username=taydevjs)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taydevjs)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Olá! Eu sou a Tay
+
+Sou desenvolvedora web apaixonada por tecnologia e boas práticas de código.  
+Atuo no desenvolvimento de aplicações modernas utilizando as principais tecnologias do ecossistema **JavaScript**, tanto no **frontend** quanto no **backend**.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+💻 **Linguagens:**  
+JavaScript • TypeScript • HTML5 • CSS3  
+
+⚙️ **Backend:**  
+Node.js • Express • API REST • Prisma  
+
+🧩 **Frontend:**  
+React.js • Vite • TailwindCSS • Context API • Hooks  
+
+🛠️ **Outras habilidades:**  
+Git • GitHub • npm/yarn • Design Responsivo • Boas práticas de código  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taydevjs&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taydevjs&layout=compact&theme=github_dark"/>
+</div>
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+🔗 **LinkedIn:** [linkedin.com/in/taydevjs](https://linkedin.com/in/taydevjs)  
+💼 **Portfólio:** [taydevjs.dev](https://taydevjs.dev) *(opcional)*  
+
+---
+
+## 💡 Sobre mim
+
+- 🚀 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias  
+- 💬 Aberta a colaborações em projetos front-end e back-end  
+- 🎯 Foco em criar soluções limpas, performáticas e bem estruturadas  
+
+---
+
+⭐ **“Código limpo é aquele que você entende seis meses depois sem se arrepender.”**
+
