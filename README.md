@@ -1,23 +1,30 @@
-# 👋 Olá! Eu sou a Tay
+# 👋 Olá! Eu sou a Tayná
 
 Sou desenvolvedora web apaixonada por tecnologia e boas práticas de código.  
-Atuo no desenvolvimento de aplicações modernas utilizando as principais tecnologias do ecossistema **JavaScript**, tanto no **frontend** quanto no **backend**.
+Atuo no desenvolvimento de aplicações modernas utilizando o ecossistema **JavaScript**, tanto no **frontend** quanto no **backend**.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-💻 **Linguagens:**  
-JavaScript • TypeScript • HTML5 • CSS3  
+### 💻 Linguagens e Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</div>
 
-⚙️ **Backend:**  
-Node.js • Express • API REST • Prisma  
+### 🛠️ Outras Tecnologias
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
 
-🧩 **Frontend:**  
-React.js • Vite • TailwindCSS • Context API • Hooks  
-
-🛠️ **Outras habilidades:**  
-Git • GitHub • npm/yarn • Design Responsivo • Boas práticas de código  
+ 
+</div>
 
 ---
 
@@ -32,19 +39,13 @@ Git • GitHub • npm/yarn • Design Responsivo • Boas práticas de código
 
 ## 📫 Contato
 
-📧 **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+📧 **E-mail:** [taynamayna8@gmail.com](mailto:taynamayna8@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/taydevjs](https://linkedin.com/in/taydevjs)  
-💼 **Portfólio:** [taydevjs.dev](https://taydevjs.dev) *(opcional)*  
+  
 
----
 
-## 💡 Sobre mim
 
-- 🚀 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias  
-- 💬 Aberta a colaborações em projetos front-end e back-end  
-- 🎯 Foco em criar soluções limpas, performáticas e bem estruturadas  
 
 ---
 
 ⭐ **“Código limpo é aquele que você entende seis meses depois sem se arrepender.”**
-
